@@ -2,6 +2,7 @@
 Desktop Presentation App using Gestures
 
 ## Before you use:
+- You need a working webcam or laptop camera. If the camera is turned off, turn it on.
 - Install all the packages from requirements.txt
   
 ## How to use:
@@ -27,3 +28,6 @@ Desktop Presentation App using Gestures
 - No hand gestures will affect the slide while presenting
 
 Credit: https://www.youtube.com/watch?v=CKmAZss-T5Y&t=4298s
+
+## Improvisations:
+This version uses both hands to trigger actions instead of using just one hand over a specific section of the image captured by the camera.
